@@ -1,0 +1,6 @@
+output/*
+__pycache__*
+.vscode*
+.DS_Store*
+dataset/Meshes*
+dataset/Sketches*
